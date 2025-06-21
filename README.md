@@ -1,8 +1,10 @@
 # Reproducible scaling laws for contrastive language-image learning [[arXiv]](https://arxiv.org/abs/2212.07143)
 
-*by Mehdi Cherti, Romain Beaumont, Ross Wightman, Mitchell Wortsman, Gabriel Ilharco, Cade Gordon, Christoph Schuhmann, Ludwig Schmidt, Jenia Jitsev* [[arXiv:2212.07143]](https://arxiv.org/abs/2212.07143) (Accepted at [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Cherti_Reproducible_Scaling_Laws_for_Contrastive_Language-Image_Learning_CVPR_2023_paper.html))
+*by Mehdi Cherti, Romain Beaumont, Ross Wightman, Mitchell Wortsman, Gabriel Ilharco, Cade Gordon, Christoph Schuhmann, Ludwig Schmidt, Jenia Jitsev* [[arXiv:2212.07143]](https://arxiv.org/abs/2212.07143) ([CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Cherti_Reproducible_Scaling_Laws_for_Contrastive_Language-Image_Learning_CVPR_2023_paper.html))
 
 In this repository, we provide the code for reproducing the experiments on large-scale CLIP pre-training and transfer to various downstream tasks for the paper "Reproducible scaling laws for contrastive language-image learning", together with pointers to open artefacts from this study (pre-trained models and all the intermediate checkpoints).
+
+For follow-up work, see [Scaling Laws for Robust Comparison of Open Foundation Language-Vision Models and Datasets, arXiv:2506.04598](https://arxiv.org/abs/2506.04598), [research repo](https://github.com/LAION-AI/scaling-laws-for-comparison)
 
 ## Artefacts
 Pre-trained openCLIP models across various scales, final checkpoints: https://huggingface.co/laion/scaling-laws-openclip/tree/main \
